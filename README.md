@@ -1,2 +1,2 @@
-# outcome1
+# project1
 bsc simple repository I
